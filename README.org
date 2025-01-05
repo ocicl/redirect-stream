@@ -2,9 +2,8 @@
 
 A level of indirection for streams, implemented as a gray-stream.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Shinmera/redirect-stream.git   |
-| commit  | 7d4e701  |
-| systems | redirect-stream |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/Shinmera/redirect-stream.git |
+| commit  | c699947                                             |
+| systems | redirect-stream                                     |
+|---------+-----------------------------------------------------|
