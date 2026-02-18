@@ -4,6 +4,6 @@ A level of indirection for streams, implemented as a gray-stream.
 
 |---------+-----------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/redirect-stream.git |
-| commit  | 0000000                                             |
+| commit  | 08ea842                                             |
 | systems | redirect-stream                                     |
 |---------+-----------------------------------------------------|
